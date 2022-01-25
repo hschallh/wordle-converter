@@ -8,7 +8,9 @@ Welcome to wordle converter! This is a small app to swap emoji from your wordle 
 
 Feel free to [ask questions or submit issues here](https://github.com/hschallh/wordle-converter/issues).
 
-## What's new?
+# What's new?
+
+## 01-24-2022
 This app has been freshly deployed! 
 
 Check out the settings by clicking the floating action button in the bottom right corner.
